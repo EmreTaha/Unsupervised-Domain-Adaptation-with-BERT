@@ -14,6 +14,6 @@ Upload ipynb file, BERTOptimizer.py, utils.py files to the Google Colab. The dat
 * Numpy
 * Matplotlib
 * Scipy
-* GPU
+* Google Colab
 
 
