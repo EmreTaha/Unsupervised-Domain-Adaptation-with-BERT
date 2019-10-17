@@ -3,11 +3,10 @@ A novel approach for BERT usage in unsupervised domain adaptation for a NLP task
 
 Please cite original [BERT](https://arxiv.org/abs/1810.04805) paper when using the code.
 
-The code based on BERT in the TF-Hub. BERTOptimizer.py file is modified for freezing the network partially. 
+The code based on BERT in the TF-Hub. `BERTOptimizer.py` file is modified for freezing the network partially. 
 
 ## Getting Started
-Upload ipynb file, 'BERTOptimizer.py', utils.py files to the Google Colab. The data (from Stanford) is downloaded and processed within the code
-
+Upload ipynb file, `BERTOptimizer.py`, `utils.py` files to Google Colab. The data (from Stanford) is downloaded and processed within the code
 
 ## Requirements
 * Python 3.6
