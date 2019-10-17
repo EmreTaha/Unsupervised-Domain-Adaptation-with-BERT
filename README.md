@@ -1,7 +1,7 @@
 # Unsupervised-Domain-Adaptation-with-BERT
 A novel approach for BERT usage in unsupervised domain adaptation for a NLP tasks. The topic is **Unsupervised domain adaptation between two Amazon product reviews categories with BERT and a domain discriminator network for the sentiment analysis**.
 
-Please cite original [BERT](https://arxiv.org/abs/1810.04805)
+Please cite original [BERT](https://arxiv.org/abs/1810.04805) paper when using the code.
 
 The code based on BERT in the TF-Hub. BERTOptimizer.py file is modified for freezing the network partially. 
 
