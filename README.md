@@ -1,15 +1,17 @@
 # Unsupervised-Domain-Adaptation-with-BERT
-Unsupervised domain adaptation with BERT and a domain discriminator network for Amazon food product reviews sentiment analysis. 
+A novel approach for BERT usage in unsupervised domain adaptation for a NLP tasks. The topic is **Unsupervised domain adaptation between two Amazon product reviews categories with BERT and a domain discriminator network for the sentiment analysis**.
 
-The code based on the one in the TF-Hub. BERTOptimizer.py file is modified for freezing the network partially. 
+Please cite original [BERT](https://arxiv.org/abs/1810.04805)
+
+The code based on BERT in the TF-Hub. BERTOptimizer.py file is modified for freezing the network partially. 
 
 ## Getting Started
-Upload ipynb file, BERTOptimizer.py, utils.py files to the Google Colab. The data (from Stanford is downloaded within the code)
+Upload ipynb file, 'BERTOptimizer.py', utils.py files to the Google Colab. The data (from Stanford) is downloaded and processed within the code
 
 
 ## Requirements
 * Python 3.6
-* pandas (https://seaborn.pydata.org/)
+* pandas 
 * Tensorflow 
 * Numpy
 * Matplotlib
