@@ -11,7 +11,7 @@ Upload ipynb file, `BERTOptimizer.py`, `utils.py` files to Google Colab. The dat
 ## Requirements
 * Python 3.6
 * pandas 
-* Tensorflow 
+* Tensorflow 1.x
 * Numpy
 * Matplotlib
 * Scipy
